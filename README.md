@@ -8,8 +8,10 @@
 (블럭도)
 ![image](https://user-images.githubusercontent.com/90660378/175207787-76898bba-db6d-4a03-831f-307522e50118.png)
 
-
-코드 1(ultrasonic_publish.py)
+코드1 (servo.py)
 ![image](https://user-images.githubusercontent.com/90660378/175210244-2da402b3-95bd-445a-b57f-a7a1697fb790.png)
 ![image](https://user-images.githubusercontent.com/90660378/175210264-5f2599bc-be0c-4229-a348-f4ea9206b388.png)
 
+코드2 (ultrasonic_publish.py)
+![image](https://user-images.githubusercontent.com/90660378/175210512-92cce9bc-e95a-4303-b191-ec4b570194f6.png)
+![image](https://user-images.githubusercontent.com/90660378/175210558-5759bdb4-cc3e-4f2e-9ab7-e4886fe031c7.png)
