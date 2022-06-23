@@ -9,13 +9,12 @@
 ![image](https://user-images.githubusercontent.com/90660378/175207787-76898bba-db6d-4a03-831f-307522e50118.png)
 
 
-
 코드 1(ultrasonic_publish.py)
-import random
-import time
-import paho.mqtt.client as mqtt_client
-import RPi.GPIO as GPIO                     # GPIO 라이브러리 모듈 import
-import time                                 # 시간 관련 라이브러리 모듈 import
+ import random
+ import time
+ import paho.mqtt.client as mqtt_client
+ import RPi.GPIO as GPIO                     # GPIO 라이브러리 모듈 import
+ import time                                 # 시간 관련 라이브러리 모듈 import
 
 # broker 정보 #1
 broker_address = "192.168.0.185"
